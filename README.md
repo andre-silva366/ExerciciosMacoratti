@@ -30,7 +30,7 @@
 ### d-) Inclua mais dois objetos Pessoa na lista e exiba a nova lista de pessoas
 ### e-) Remova o último elemento da coleção e exiba a lista completa
 
-###Use seguintes dados iniciais: Ana, 22 - Diná, 21 - Maria, 19 . Ao incluir os objetos pessoa use os dados : Jaime,20 - Tânia,18
+### Use seguintes dados iniciais: Ana, 22 - Diná, 21 - Maria, 19 . Ao incluir os objetos pessoa use os dados : Jaime,20 - Tânia,18
 
 ## 5- Dada uma classe Produto contendo duas propriedades : Nome (string) e Preco (decimal). Crie uma lista de objetos do tipo Produto usando os seguinte dados: Clips, R$ 3,95 - Caneta, R$ 5,99 - - Lápis, R$ 4,15 - Estojo, R$ 6,99 e Caderno, R$ 7,55
 
