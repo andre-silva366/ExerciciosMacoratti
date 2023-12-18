@@ -5,5 +5,5 @@
 //Exercicio01.C();
 //Exercicio01.D();
 //Exercicio01.E();
-
-Exercicio02.ArrayInteiros();
+//Exercicio02.ArrayInteiros();
+Exercicio03.InserirNotas();
