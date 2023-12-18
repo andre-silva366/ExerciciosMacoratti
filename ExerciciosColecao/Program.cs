@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using ExerciciosColecao;
+
+Exercicio01.A();
+Exercicio01.B();
+Exercicio01.C();
+Exercicio01.D();
+Exercicio01.E();
