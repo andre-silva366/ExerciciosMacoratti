@@ -13,6 +13,32 @@
 //Exercicio05.ExibirRelacao();
 //Exercicio05.PrecoMenorQueCinco();
 //Exercicio05.LocalizarProduto("Estojo");
-Exercicio06.ProcessaObjetos();
+//Exercicio06.ProcessaObjetos();
+
+Aluno aluno = new Aluno();
+aluno[0] = "André";
+aluno[1] = "Andressa";
+aluno[2] = "Amanda";
+aluno[3] = "Maria";
+aluno[4] = "Josué";
+aluno[5] = "Manoel";
+aluno[6] = "Silas";
+aluno[7] = "Renato";
+aluno[8] = "Amarildo";
+aluno[9] = "José";
+aluno[10] = "Mario";
+aluno[11] = "Carlos";
+
+//for(int i = 0; i < 12; i++)
+//{
+//    Console.WriteLine(aluno[i].ToString());
+//}
+
+Console.WriteLine(aluno[8]);
+Console.WriteLine(aluno[9]);
+Console.WriteLine(aluno[10]);
+Console.WriteLine(aluno[11]);
+
+Console.ReadKey();
 
 
