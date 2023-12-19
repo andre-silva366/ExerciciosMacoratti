@@ -9,9 +9,10 @@
 //Exercicio03.InserirNotas();
 //Exercicio04.AdicionarPessoas();
 //Exercicio04.IncluindoDuasPessoas();
-Exercicio05.CriandoLista();
-Exercicio05.ExibirRelacao();
-Exercicio05.PrecoMenorQueCinco();
-Exercicio05.LocalizarProduto("Estojo");
+//Exercicio05.CriandoLista();
+//Exercicio05.ExibirRelacao();
+//Exercicio05.PrecoMenorQueCinco();
+//Exercicio05.LocalizarProduto("Estojo");
+Exercicio06.ProcessaObjetos();
 
 
