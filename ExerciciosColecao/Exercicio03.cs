@@ -22,9 +22,7 @@ static class Exercicio03
 
             Console.WriteLine($"\nA média do grupo {i+1} é {(soma/5).ToString("f2")}");
         }
-
-       
-
+        
         Exercicio01.Fim();
     }
     
