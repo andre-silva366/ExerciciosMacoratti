@@ -8,3 +8,4 @@
 //Exercicio02.ArrayInteiros();
 //Exercicio03.InserirNotas();
 Exercicio04.AdicionarPessoas();
+Exercicio04.IncluindoDuasPessoas();
