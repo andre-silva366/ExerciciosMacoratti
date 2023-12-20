@@ -9,6 +9,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExerciciosHeranca", "Exerci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_Exercicio134", "Heranca_Exercicio134\Heranca_Exercicio134.csproj", "{B3364890-E741-4429-A4D6-A7F8E7953216}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Imagens", "Imagens", "{91067D9F-8C99-42E8-88AF-CAFDBA1432A9}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\ImagemCaptura\LinkedIn\HerancaExercicio.jpg = ..\..\..\ImagemCaptura\LinkedIn\HerancaExercicio.jpg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +34,7 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B3364890-E741-4429-A4D6-A7F8E7953216} = {0A3C0792-A241-408C-B5B6-E3340DE044AA}
+		{91067D9F-8C99-42E8-88AF-CAFDBA1432A9} = {0A3C0792-A241-408C-B5B6-E3340DE044AA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55B4F3F0-280E-485A-8FE6-1B7995FF78D9}
